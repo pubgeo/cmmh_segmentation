@@ -1,0 +1,15 @@
+Alternatively this are the locations for all 3rd party source:
+
+FGS: https://github.com/soundsilence/ImageSmoothing
+
+derivative5 and PeterKovesi directory:
+http://www.peterkovesi.com/matlabfns/
+
+piotr_toolbox:
+https://pdollar.github.io/toolbox/
+
+StructuredEdgeDetection:
+https://github.com/pdollar/edges
+
+colorspace.m
+https://www.mathworks.com/matlabcentral/fileexchange/28790-colorspace-transformations
