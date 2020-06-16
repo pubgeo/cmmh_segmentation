@@ -1,6 +1,3 @@
-# JHU/APL pubgeo
-Open source software and public data for geospatial computer vision
-
 ## CMMH Segmentation 
 Cost Minimization Multiple Hypotheses Segmentation 
  
